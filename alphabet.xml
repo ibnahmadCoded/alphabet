@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<alphabet>
+<a>
+<a comp=1>
+<b>
+e
+</b>
+<c>
+<d>
+10
+</d>
+</c>
+</a>
+
+<a comp=2>
+<b>
+</b>
+</a>
+
+<a comp=3>
+<b>
+f
+</b>
+<c>
+<d>
+15
+</d>
+</c>
+</a>
+
+<a comp=4>
+<b>
+g
+</b>
+<c>
+<d>
+8
+</d>
+</c>
+</a>
+
+<a comp=5>
+</a>
+<b>
+h
+</b>
+<c>
+<d>
+5
+</d>
+</c>
+</a>
+</alphabet>
